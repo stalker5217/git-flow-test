@@ -1,5 +1,4 @@
-
-## git flow
+# git flow
 
 git flow는 Vincent Driessen가 제안한 git에서 브랜치를 효율적으로 관리하기 위한 workflow 모델이다.  
 
