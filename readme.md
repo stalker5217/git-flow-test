@@ -3,7 +3,7 @@
 
 git flow는 Vincent Driessen가 제안한 git에서 브랜치를 효율적으로 관리하기 위한 workflow 모델이다.  
 
-![git_flow](/assets/images/git/git_flow.png)
+![git_flow](https://user-images.githubusercontent.com/51525202/85198162-4f109180-b321-11ea-9733-e6811e3a0ced.png)
 
 git flow에서는 다음과 같이 위와 브랜치를 관리한다.
 - **master** : 실제 product로 release 되는 브랜치
@@ -19,11 +19,11 @@ git flow에서는 다음과 같이 위와 브랜치를 관리한다.
 
 현재 git에서 git flow 모델을 기본적으로 제공하고 있기 때문에 이를 사용하면 일련의 작업을 쉽게 관리할 수 있다.
 
-![git_flow_test_1](/assets/images/git/git_flow_test_1.png)
+![git_flow_test_1](https://user-images.githubusercontent.com/51525202/85198164-50da5500-b321-11ea-9185-4f8304aeea91.png)
 
 ```git flow``` 명령으로 local repository를 생성할 수 있다. 각 브랜치의 이름을 지정할 수 있으며 위에서는 default 값을 그대로 사용하였다.
 
-![git_flow_test_2](/assets/images/git/git_flow_test_2.png)
+![git_flow_test_2](https://user-images.githubusercontent.com/51525202/85198165-520b8200-b321-11ea-8518-94540492930d.png)
 
 위는 기능 개발 과정을 나타낸다.
 
