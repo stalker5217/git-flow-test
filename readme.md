@@ -35,7 +35,4 @@ git flow에서는 다음과 같이 위와 브랜치를 관리한다.
 <br/>
 
 참고  
-* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-
-
-d
+* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
